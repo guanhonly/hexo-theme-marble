@@ -1,6 +1,6 @@
 ## hexo-theme-marble
 
-#### 个人主页地址：[Honly's blog](https://guanhonly.github.io/)
+#### 新个人博客地址：[Honly's blog](https://guanhonly.github.io/)
 * * *
 #### 自己动手做的一个github个人主页，在[@ppoffice](https://github.com/ppoffice)的[Alex](https://github.com/ppoffice/hexo-theme-alex)项目基础上改的，主要是根据我的个人喜好进行的界面的调整，增加了评论功能。评论功能采用的[gitalk](https://github.com/gitalk/gitalk)。
 
@@ -42,3 +42,7 @@ hexo g
 hexo d
 ```
 过一会儿就可以上看到使用了这个模板的个人主页了
+
+效果：
+![](https://raw.githubusercontent.com/guanhonly/HonlyBlogHelper/master/images/oldBlog1.png)
+![](https://raw.githubusercontent.com/guanhonly/HonlyBlogHelper/master/images/oldBlog2.png)
