@@ -4,6 +4,8 @@
 * * *
 #### 自己动手做的一个github个人主页，在[@ppoffice](https://github.com/ppoffice)的[Alex](https://github.com/ppoffice/hexo-theme-alex)项目基础上改的，主要是根据我的个人喜好进行的界面的调整，增加了评论功能。评论功能采用的[gitalk](https://github.com/gitalk/gitalk)。
 
+#### 整个界面追求极致简洁，黑白配色，所以取名marble。
+
 ## 安装方法：
 #### 1. nodejs和hexo的安装可以参考这篇博客：
 > [用Hexo + github搭建自己的博客 --- 再也不用羡慕别人了！
